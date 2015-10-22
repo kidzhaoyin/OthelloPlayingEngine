@@ -1,3 +1,7 @@
+"""
+Yin Zhao
+Oct 2014
+"""
 from __future__ import absolute_import
 from engines import Engine
 from copy import deepcopy
